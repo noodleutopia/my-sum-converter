@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SumConverter</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="input_description">请输入金额：</string>
+    <string name="convert_result_description">转换结果：</string>
+    <string name="upper_font_hint">将在此显示大写金额…</string>
+    <string name="clear_button_hint">清除</string>
+    <string name="ok_button_hint">转换</string>
+
+</resources>
